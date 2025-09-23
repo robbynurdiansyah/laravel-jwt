@@ -6,7 +6,7 @@ It includes a minimal example with **one controller** that generates a token bas
 ---
 
 ## Features
-- Laravel 11 framework.
+- Laravel 12 framework.
 - JWT-based authentication using [`firebase/php-jwt`](https://github.com/firebase/php-jwt).
 - Example controller for issuing JWT tokens.
 - Clean and minimal setup for learning or starting point.
