@@ -34,8 +34,17 @@ It includes a minimal example with **one controller** that generates a token bas
 3. Copy the environment file:
    ```bash
    cp .env.example .env
+   
 4. Add the following variables to your .env file:
    ```bash
    TOKEN_APP_KEY=your_app_key
    TOKEN_APP_SECRET=your_app_secret
+   
+5. Generate Laravel application key:
+   ```bash
+   php artisan key:generate
+
+6. Start the local development server:
+   ```bash
+   php artisan serve
 
