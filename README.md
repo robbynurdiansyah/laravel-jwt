@@ -16,7 +16,7 @@ It includes a minimal example with **one controller** that generates a token bas
 ## Requirements
 - PHP >= 8.2
 - Composer
-- Laravel 11
+- Laravel 12
 - PostgreSQL or MySQL (optional for testing, not required for token generation)
 
 ---
