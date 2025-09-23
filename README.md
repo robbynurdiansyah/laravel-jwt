@@ -27,5 +27,6 @@ It includes a minimal example with **one controller** that generates a token bas
    git clone https://github.com/yourusername/laravel-jwt-integration.git
    cd laravel-jwt-integration
 
-2. ```bash
+2. Install dependencies:
+   ```bash
    composer install
