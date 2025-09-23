@@ -30,3 +30,12 @@ It includes a minimal example with **one controller** that generates a token bas
 2. Install dependencies:
    ```bash
    composer install
+
+3. Copy the environment file:
+   ```bash
+   cp .env.example .env
+4. Add the following variables to your .env file:
+   ```bash
+   TOKEN_APP_KEY=your_app_key
+   TOKEN_APP_SECRET=your_app_secret
+
