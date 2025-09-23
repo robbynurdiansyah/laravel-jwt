@@ -53,13 +53,13 @@ Endpoint: POST /api/token
 
 Request a JWT token by sending the app_key in the request body.
 
-Example Request
+#Example Request
 ```bash
 curl -X POST http://127.0.0.1:8000/api/token \
   -H "Content-Type: application/json" \
   -d '{"app_key": "your_app_key"}'
 
-Example Response
+#Example Response
 ```bash
 {
   "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1..."
