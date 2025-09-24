@@ -66,3 +66,9 @@ curl -X POST http://127.0.0.1:8000/api/token \
   "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1..."
 }
 
+## Author
+
+Robby Bambang Nurdiansyah
+
+Web Developer | QA Engineer | n8n Automation
+
